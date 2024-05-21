@@ -25,7 +25,7 @@ const sendToken = (user,statusCode ,res)=>{
     })
 
 }
-
+//module exporting
 module.exports ={
     sendToken,
     isTokenIncluded,
