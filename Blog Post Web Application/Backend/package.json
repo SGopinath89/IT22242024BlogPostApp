@@ -7,7 +7,7 @@
         "start": "nodemon server.js "
     },
     "keywords": [],
-    "author": "Gilbert Hutapea ",
+    "author": "BLOGZ developing team",
     "license": "ISC",
     "dependencies": {
         "bcryptjs": "^2.4.3",
